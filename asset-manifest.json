@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Insta_clone/static/css/main.dea8061a.css",
+    "main.js": "/Insta_clone/static/js/main.b06fd0fe.js",
+    "index.html": "/Insta_clone/index.html",
+    "main.dea8061a.css.map": "/Insta_clone/static/css/main.dea8061a.css.map",
+    "main.b06fd0fe.js.map": "/Insta_clone/static/js/main.b06fd0fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea8061a.css",
+    "static/js/main.b06fd0fe.js"
+  ]
+}
